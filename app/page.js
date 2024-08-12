@@ -122,5 +122,5 @@ export default function Home() {
         </Stack>
       </Stack>
     </Box>
-  )
+  ) 
 }
