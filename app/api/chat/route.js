@@ -1,6 +1,6 @@
 import {NextResponse} from 'next/server' // Import NextResponse from Next.js for handling responses
 import OpenAI from 'openai' // Import OpenAI library for interacting with the OpenAI API
-
+console.log("hehe")
 // System prompt for the AI, providing guidelines on how to respond to users
 const systemPrompt = 'You will help solve math problems' // Use your own system prompt here
 
